@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "imputeR"]
+	path = imputeR
+	url = https://github.com/steffenmoritz/imputer
+	shallow = true
+	registered = true
+[submodule "imputeTS"]
+	path = imputeTS
+	url = https://github.com/steffenmoritz/imputets
+	shallow = true
+	registered = true
+[submodule "ridge"]
+	path = ridge
+	url = https://github.com/steffenmoritz/ridge
+	shallow = true
+	registered = true
