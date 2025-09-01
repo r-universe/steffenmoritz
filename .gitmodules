@@ -8,6 +8,9 @@
 [submodule "imputeTS"]
 	path = imputeTS
 	url = https://github.com/steffenmoritz/imputets
+[submodule "kssa"]
+	path = kssa
+	url = https://github.com/steffenmoritz/kssa
 [submodule "ridge"]
 	path = ridge
 	url = https://github.com/steffenmoritz/ridge
